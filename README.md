@@ -93,6 +93,7 @@
 - [Metaflow](https://metaflow.org/) – Human-centric ML workflow framework.
 - [Weights & Biases](https://wandb.ai/) – Experiment tracking and visualization for AutoML experiments.
 - [Evidently](https://www.evidentlyai.com/) – Monitor data and model drift from AutoML systems.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) – Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments in multi-agent AutoML orchestration pipelines. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Benchmarks & Evaluation
 
